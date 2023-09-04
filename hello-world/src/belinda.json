@@ -1,0 +1,137 @@
+[
+  {
+    "student": {
+      "student_id": "15532b4c-a58e-4f35-a60d-34e8967c08d5",
+      "first_name": "David",
+      "last_name": "Belinda",
+      "email": "david.belinda@gmail.com",
+      "assigned_case_manager_id": "622d5db7-abd4-4f98-8afb-9e384117308e"
+    },
+    "iep": {
+      "iep_id": "5b5d88f8-b67c-4346-99a9-91d3128207e3",
+      "case_manager_id": "622d5db7-abd4-4f98-8afb-9e384117308e",
+      "start_date": "2023-08-11T07:00:00.000Z",
+      "end_date": "2023-10-31T07:00:00.000Z",
+      "created_at": "2023-08-13T04:14:46.480Z"
+    },
+    "goal": {
+      "goal_id": "b5a6d32a-f35e-4873-94a5-3cf31248e576",
+      "description": "By October, when given a list of 20 unfamiliar words that contain short-vowel sounds, David will decode them with 90% accuracy on each of 5 trials.",
+      "category": "reading"
+    },
+    "subgoal": {
+      "subgoal_id": "7fafac0f-c609-4876-87bd-97f14546daa4",
+      "description": "Decode 10 October words",
+      "instructions": "",
+      "target_max_attempts": 5
+    }
+  },
+  {
+    "student": {
+      "student_id": "15532b4c-a58e-4f35-a60d-34e8967c08d5",
+      "first_name": "David",
+      "last_name": "Belinda",
+      "email": "david.belinda@gmail.com",
+      "assigned_case_manager_id": "622d5db7-abd4-4f98-8afb-9e384117308e"
+    },
+    "iep": {
+      "iep_id": "5b5d88f8-b67c-4346-99a9-91d3128207e3",
+      "case_manager_id": "622d5db7-abd4-4f98-8afb-9e384117308e",
+      "start_date": "2023-08-11T07:00:00.000Z",
+      "end_date": "2023-10-31T07:00:00.000Z",
+      "created_at": "2023-08-13T04:14:46.480Z"
+    },
+    "goal": {
+      "goal_id": "b5a6d32a-f35e-4873-94a5-3cf31248e576",
+      "description": "By October, when given a list of 20 unfamiliar words that contain short-vowel sounds, David will decode them with 90% accuracy on each of 5 trials.",
+      "category": "reading"
+    },
+    "subgoal": {
+      "subgoal_id": "bcb496dd-f2b3-40db-b7f6-3b18ad3318ac",
+      "description": "Decode 10 more October words",
+      "instructions": "",
+      "target_max_attempts": 5
+    }
+  },
+  {
+    "student": {
+      "student_id": "15532b4c-a58e-4f35-a60d-34e8967c08d5",
+      "first_name": "David",
+      "last_name": "Belinda",
+      "email": "david.belinda@gmail.com",
+      "assigned_case_manager_id": "622d5db7-abd4-4f98-8afb-9e384117308e"
+    },
+    "iep": {
+      "iep_id": "5b5d88f8-b67c-4346-99a9-91d3128207e3",
+      "case_manager_id": "622d5db7-abd4-4f98-8afb-9e384117308e",
+      "start_date": "2023-08-11T07:00:00.000Z",
+      "end_date": "2023-10-31T07:00:00.000Z",
+      "created_at": "2023-08-13T04:14:46.480Z"
+    },
+    "goal": {
+      "goal_id": "cc37169f-2206-4b86-ba13-f8a3d0a6243c",
+      "description": "By November, when given a list of 30 unfamiliar words that contain short-vowel sounds, David will decode them with 90% accuracy on each of 5 trials.",
+      "category": "reading"
+    },
+    "subgoal": {
+      "subgoal_id": "c2b0aa2d-887a-4788-bcff-2f5d9a9e3ef8",
+      "description": "Decode 10 November words",
+      "instructions": "",
+      "target_max_attempts": 5
+    }
+  },
+  {
+    "student": {
+      "student_id": "15532b4c-a58e-4f35-a60d-34e8967c08d5",
+      "first_name": "David",
+      "last_name": "Belinda",
+      "email": "david.belinda@gmail.com",
+      "assigned_case_manager_id": "622d5db7-abd4-4f98-8afb-9e384117308e"
+    },
+    "iep": {
+      "iep_id": "5b5d88f8-b67c-4346-99a9-91d3128207e3",
+      "case_manager_id": "622d5db7-abd4-4f98-8afb-9e384117308e",
+      "start_date": "2023-08-11T07:00:00.000Z",
+      "end_date": "2023-10-31T07:00:00.000Z",
+      "created_at": "2023-08-13T04:14:46.480Z"
+    },
+    "goal": {
+      "goal_id": "cc37169f-2206-4b86-ba13-f8a3d0a6243c",
+      "description": "By November, when given a list of 30 unfamiliar words that contain short-vowel sounds, David will decode them with 90% accuracy on each of 5 trials.",
+      "category": "reading"
+    },
+    "subgoal": {
+      "subgoal_id": "c9f2786a-9c04-4582-8692-ee3c0490778e",
+      "description": "Decode 10 more November words",
+      "instructions": "",
+      "target_max_attempts": 5
+    }
+  },
+  {
+    "student": {
+      "student_id": "15532b4c-a58e-4f35-a60d-34e8967c08d5",
+      "first_name": "David",
+      "last_name": "Belinda",
+      "email": "david.belinda@gmail.com",
+      "assigned_case_manager_id": "622d5db7-abd4-4f98-8afb-9e384117308e"
+    },
+    "iep": {
+      "iep_id": "5b5d88f8-b67c-4346-99a9-91d3128207e3",
+      "case_manager_id": "622d5db7-abd4-4f98-8afb-9e384117308e",
+      "start_date": "2023-08-11T07:00:00.000Z",
+      "end_date": "2023-10-31T07:00:00.000Z",
+      "created_at": "2023-08-13T04:14:46.480Z"
+    },
+    "goal": {
+      "goal_id": "cc37169f-2206-4b86-ba13-f8a3d0a6243c",
+      "description": "By November, when given a list of 30 unfamiliar words that contain short-vowel sounds, David will decode them with 90% accuracy on each of 5 trials.",
+      "category": "reading"
+    },
+    "subgoal": {
+      "subgoal_id": "a670de0c-113c-4878-a648-c31554aa46a4",
+      "description": "Decode the final 10 November words",
+      "instructions": "",
+      "target_max_attempts": 5
+    }
+  }
+]
